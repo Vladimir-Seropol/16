@@ -1,0 +1,13 @@
+/*@tailwind base;
+@tailwind components;
+@tailwind utilities;*/
+
+
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+body{
+    background-image: url(./assets/S835e10f28cea4ca2a1a00c37ad35e7e1z.webp);
+
+  }
